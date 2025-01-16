@@ -1,0 +1,12 @@
+{
+  "spotify" : {
+    "artist": ["Phish", "Greensky BlueGrass"],
+    "limit": 3000,
+    "": ""
+  },
+  "setlistFM" : {
+    "req_per_sec" : 2 ,
+    "max_per_day" : 1440
+  }
+
+}
